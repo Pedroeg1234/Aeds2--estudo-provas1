@@ -1,0 +1,395 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "bhaskara",
+      "request": "launch",
+      "mainClass": "bhaskara",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "diamondsandsand",
+      "request": "launch",
+      "mainClass": "diamondsandsand",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "barbecueAtYuris2",
+      "request": "launch",
+      "mainClass": "barbecueAtYuris2",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "badvibeswalk",
+      "request": "launch",
+      "mainClass": "badvibeswalk",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "times",
+      "request": "launch",
+      "mainClass": "times",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "teamformation",
+      "request": "launch",
+      "mainClass": "teamformation",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "thedarkelf",
+      "request": "launch",
+      "mainClass": "thedarkelf",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "ilhasisoladas",
+      "request": "launch",
+      "mainClass": "ilhasisoladas",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "evenandodd",
+      "request": "launch",
+      "mainClass": "evenandodd",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "throwingcards",
+      "request": "launch",
+      "mainClass": "throwingcards",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "Van",
+      "request": "launch",
+      "mainClass": "Van",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "CantenQueue2",
+      "request": "launch",
+      "mainClass": "CantenQueue2",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "gnomesteams",
+      "request": "launch",
+      "mainClass": "gnomesteams",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "FlyingControl",
+      "request": "launch",
+      "mainClass": "FlyingControl",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "BarbecueAtYuri",
+      "request": "launch",
+      "mainClass": "BarbecueAtYuri",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "barbecueatYuri",
+      "request": "launch",
+      "mainClass": "barbecueatYuri",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "goingtothemarket",
+      "request": "launch",
+      "mainClass": "goingtothemarket",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "noelLabels",
+      "request": "launch",
+      "mainClass": "noelLabels",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "santastranslator",
+      "request": "launch",
+      "mainClass": "santastranslator",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "haypoints",
+      "request": "launch",
+      "mainClass": "haypoints",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "completeSentence",
+      "request": "launch",
+      "mainClass": "completeSentence",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "ObiUri2",
+      "request": "launch",
+      "mainClass": "ObiUri2",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "ObiUri",
+      "request": "launch",
+      "mainClass": "ObiUri",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "sortbylength",
+      "request": "launch",
+      "mainClass": "sortbylength",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "Pilha",
+      "request": "launch",
+      "mainClass": "Pilha",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "neypasswordRA",
+      "request": "launch",
+      "mainClass": "neypasswordRA",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "FilaCircularRemoverNumeroEspecifico",
+      "request": "launch",
+      "mainClass": "FilaCircularRemoverNumeroEspecifico",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "FilaCircular2",
+      "request": "launch",
+      "mainClass": "FilaCircular2",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "FilaCircular",
+      "request": "launch",
+      "mainClass": "FilaCircular",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "selectionsort",
+      "request": "launch",
+      "mainClass": "selectionsort",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "InsertionSort",
+      "request": "launch",
+      "mainClass": "InsertionSort",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "insertionsort",
+      "request": "launch",
+      "mainClass": "insertionsort",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "graceHopper",
+      "request": "launch",
+      "mainClass": "graceHopper",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "comparesubstring",
+      "request": "launch",
+      "mainClass": "comparesubstring",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "help2",
+      "request": "launch",
+      "mainClass": "help2",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "HiddenMesssage3",
+      "request": "launch",
+      "mainClass": "HiddenMesssage3",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "Alliteration3",
+      "request": "launch",
+      "mainClass": "Alliteration3",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "Alliteration",
+      "request": "launch",
+      "mainClass": "Alliteration",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "cifradeCesar",
+      "request": "launch",
+      "mainClass": "cifradeCesar",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "stuterrerDigitzer3",
+      "request": "launch",
+      "mainClass": "stuterrerDigitzer3",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "isRecursivo",
+      "request": "launch",
+      "mainClass": "isRecursivo",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "cifraCesarRecursivo",
+      "request": "launch",
+      "mainClass": "cifraCesarRecursivo",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "palindromoRecursivo2",
+      "request": "launch",
+      "mainClass": "palindromoRecursivo2",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "leiturapaginaHTML",
+      "request": "launch",
+      "mainClass": "leiturapaginaHTML",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "alteracaoAleatoria",
+      "request": "launch",
+      "mainClass": "alteracaoAleatoria",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "alteraçãoAleatoria",
+      "request": "launch",
+      "mainClass": "alteraçãoAleatoria",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "ciframentoCesar",
+      "request": "launch",
+      "mainClass": "ciframentoCesar",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "is",
+      "request": "launch",
+      "mainClass": "is",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "huahua3",
+      "request": "launch",
+      "mainClass": "huahua3",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "onetwothree3",
+      "request": "launch",
+      "mainClass": "onetwothree3",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "fitordontfit2",
+      "request": "launch",
+      "mainClass": "fitordontfit2",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "type": "java",
+      "name": "joulupukki",
+      "request": "launch",
+      "mainClass": "joulupukki",
+      "projectName": "Possíveis questões prova 1_6bc1b93a"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/pedro/Desktop/AEDS 2024/Possíveis questões prova 1",
+      "program": "c:/Users/pedro/Desktop/AEDS 2024/Possíveis questões prova 1/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
